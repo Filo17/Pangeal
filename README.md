@@ -7,4 +7,4 @@ Invece Elettra Tegon si è occupata del gioco "Pong" e di tutta la parte di prog
 Entrambi abbiamo avuto un ruolo fondamentale nella realizzazione del progetto e ci abbiamo messo molto impegno.
 Spero vi piaccia, Buon divertimento!
 
-Crediti: filippo Ambrogini ed elettra tegon
+  Crediti: Filippo Ambrogiani // Elettra Tegon
